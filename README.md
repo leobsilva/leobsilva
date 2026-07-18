@@ -1,5 +1,5 @@
 # Leo, the builder
-## Principal Designer @Lean.Std
+## Lead Designer @Ux.Agency
 -------------------------------------------
 Crafting Mobile Apps, Web Products, SAAS, Websites, Services with AI on top just for flavor
 
